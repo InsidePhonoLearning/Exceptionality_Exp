@@ -1,0 +1,21 @@
+img {
+  border: 2px white solid;
+  width: 200px;
+  height: 228px;
+  margin: auto;
+  display: block;
+}
+
+#progressBar { 
+   border:1px solid #aaa; 
+   color:#fff; 
+   width:295px; 
+   height:20px;
+}
+#progress {
+   background-color:#ff0000; // red
+   height:20px;
+   display:inline-block;
+}
+
+

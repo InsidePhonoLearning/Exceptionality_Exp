@@ -1,0 +1,884 @@
+#
+# Results on Saturday October 02 2021 17:35:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+# Design number was non-random = 207
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,2,0,intro,NULL,consent,yes
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,3,0,compQ1,NULL,Which browser should you <strong>not</strong> be using?,Safari,1,4930
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,7,0,compQ2,NULL,What will you learn to express in the alien language?,The Plural,1,3673
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,10,0,compQ3,NULL,What are the two suffixes in the language?,‘ku’ and ‘fi’,1,4084
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,12,0,train_plural_0,NULL,train_answer_0,bruganfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,15,0,train_plural_1,NULL,train_answer_1,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,18,0,train_plural_2,NULL,train_answer_2,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,21,0,train_plural_3,NULL,train_answer_3,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,24,0,train_plural_4,NULL,train_answer_4,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,27,0,train_plural_5,NULL,train_answer_5,truvitfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,30,0,train_plural_6,NULL,train_answer_6,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,33,0,train_plural_7,NULL,train_answer_7,dosidku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,36,0,train_plural_8,NULL,train_answer_8,gragolku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,39,0,train_plural_9,NULL,train_answer_9,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,42,0,train_plural_10,NULL,train_answer_10,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,45,0,train_plural_11,NULL,train_answer_11,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,48,0,train_plural_12,NULL,train_answer_12,fregluku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,51,0,train_plural_13,NULL,train_answer_13,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,54,0,train_plural_14,NULL,train_answer_14,samefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,57,0,train_plural_15,NULL,train_answer_15,kraklefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,60,0,train_plural_16,NULL,train_answer_16,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,63,0,train_plural_17,NULL,train_answer_17,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,66,0,train_plural_18,NULL,train_answer_18,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,69,0,train_plural_19,NULL,train_answer_19,lugatfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,72,0,train_plural_20,NULL,train_answer_20,drokraku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,75,0,train_plural_21,NULL,train_answer_21,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,78,0,train_plural_22,NULL,train_answer_22,pisfuku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,81,0,train_plural_23,NULL,train_answer_23,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,84,0,train_plural_24,NULL,train_answer_24,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,87,0,train_plural_25,NULL,train_answer_25,marelku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,90,0,train_plural_26,NULL,train_answer_26,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,93,0,train_plural_27,NULL,train_answer_27,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,96,0,train_plural_28,NULL,train_answer_28,kisalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,99,0,train_plural_29,NULL,train_answer_29,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,102,0,train_plural_30,NULL,train_answer_30,truvitfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,105,0,train_plural_31,NULL,train_answer_31,glakodku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,108,0,train_plural_32,NULL,train_answer_32,zaktaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,111,0,train_plural_33,NULL,train_answer_33,kracklefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,114,0,train_plural_34,NULL,train_answer_34,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,117,0,train_plural_35,NULL,train_answer_35,zakteku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,120,0,train_plural_36,NULL,train_answer_36,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,123,0,train_plural_37,NULL,train_answer_37,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,126,0,train_plural_38,NULL,train_answer_38,truvitfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,129,0,train_plural_39,NULL,train_answer_39,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,132,0,train_plural_40,NULL,train_answer_40,fregluku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,135,0,train_plural_41,NULL,train_answer_41,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,138,0,train_plural_42,NULL,train_answer_42,kracklefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,141,0,train_plural_43,NULL,train_answer_43,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,144,0,train_plural_44,NULL,train_answer_44,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,147,0,train_plural_45,NULL,train_answer_45,dosidku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,150,0,train_plural_46,NULL,train_answer_46,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,153,0,train_plural_47,NULL,train_answer_47,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,156,0,train_plural_48,NULL,train_answer_48,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,159,0,train_plural_49,NULL,train_answer_49,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,163,0,train_plural_50,NULL,train_answer_50,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,166,0,train_plural_51,NULL,train_answer_51,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,169,0,train_plural_52,NULL,train_answer_52,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,172,0,train_plural_53,NULL,train_answer_53,tutunku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,175,0,train_plural_54,NULL,train_answer_54,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,178,0,train_plural_55,NULL,train_answer_55,zaktaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,181,0,train_plural_56,NULL,train_answer_56,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,184,0,train_plural_57,NULL,train_answer_57,truvitfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,187,0,train_plural_58,NULL,train_answer_58,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,190,0,train_plural_59,NULL,train_answer_59,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,193,0,train_plural_60,NULL,train_answer_60,tazkufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,196,0,train_plural_61,NULL,train_answer_61,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,199,0,train_plural_62,NULL,train_answer_62,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,202,0,train_plural_63,NULL,train_answer_63,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,205,0,train_plural_64,NULL,train_answer_64,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,208,0,train_plural_65,NULL,train_answer_65,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,211,0,train_plural_66,NULL,train_answer_66,gragolku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,214,0,train_plural_67,NULL,train_answer_67,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,217,0,train_plural_68,NULL,train_answer_68,kraklefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,220,0,train_plural_69,NULL,train_answer_69,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,223,0,train_plural_70,NULL,train_answer_70,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,226,0,train_plural_71,NULL,train_answer_71,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,229,0,train_plural_72,NULL,train_answer_72,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,232,0,train_plural_73,NULL,train_answer_73,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,235,0,train_plural_74,NULL,train_answer_74,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,238,0,train_plural_75,NULL,train_answer_75,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,241,0,train_plural_76,NULL,train_answer_76,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,244,0,train_plural_77,NULL,train_answer_77,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,247,0,train_plural_78,NULL,train_answer_78,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,250,0,train_plural_79,NULL,train_answer_79,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,253,0,train_plural_80,NULL,train_answer_80,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,256,0,train_plural_81,NULL,train_answer_81,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,259,0,train_plural_82,NULL,train_answer_82,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,262,0,train_plural_83,NULL,train_answer_83,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,265,0,train_plural_84,NULL,train_answer_84,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,268,0,train_plural_85,NULL,train_answer_85,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,271,0,train_plural_86,NULL,train_answer_86,gazalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,274,0,train_plural_87,NULL,train_answer_87,tikleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,277,0,train_plural_88,NULL,train_answer_88,fudkifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,280,0,train_plural_89,NULL,train_answer_89,bruganku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,283,0,train_plural_90,NULL,train_answer_90,fregluku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,286,0,train_plural_91,NULL,train_answer_91,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,289,0,train_plural_92,NULL,train_answer_92,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,292,0,train_plural_93,NULL,train_answer_93,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,295,0,train_plural_94,NULL,train_answer_94,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,298,0,train_plural_95,NULL,train_answer_95,mafdiku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,301,0,train_plural_96,NULL,train_answer_96,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,304,0,train_plural_97,NULL,train_answer_97,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,307,0,train_plural_98,NULL,train_answer_98,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,310,0,train_plural_99,NULL,train_answer_99,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,314,0,train_plural_100,NULL,train_answer_100,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,317,0,train_plural_101,NULL,train_answer_101,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,320,0,train_plural_102,NULL,train_answer_102,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,323,0,train_plural_103,NULL,train_answer_103,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,326,0,train_plural_104,NULL,train_answer_104,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,329,0,train_plural_105,NULL,train_answer_105,samku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,332,0,train_plural_106,NULL,train_answer_106,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,335,0,train_plural_107,NULL,train_answer_107,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,338,0,train_plural_108,NULL,train_answer_108,kisalfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,341,0,train_plural_109,NULL,train_answer_109,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,344,0,train_plural_110,NULL,train_answer_110,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,347,0,train_plural_111,NULL,train_answer_111,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,350,0,train_plural_112,NULL,train_answer_112,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,353,0,train_plural_113,NULL,train_answer_113,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,356,0,train_plural_114,NULL,train_answer_114,tazkufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,359,0,train_plural_115,NULL,train_answer_115,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,362,0,train_plural_116,NULL,train_answer_116,bruganfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,365,0,train_plural_117,NULL,train_answer_117,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,368,0,train_plural_118,NULL,train_answer_118,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,371,0,train_plural_119,NULL,train_answer_119,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,374,0,train_plural_120,NULL,train_answer_120,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,377,0,train_plural_121,NULL,train_answer_121,gragolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,380,0,train_plural_122,NULL,train_answer_122,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,383,0,train_plural_123,NULL,train_answer_123,kisalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,386,0,train_plural_124,NULL,train_answer_124,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,389,0,train_plural_125,NULL,train_answer_125,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,392,0,train_plural_126,NULL,train_answer_126,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,395,0,train_plural_127,NULL,train_answer_127,lugatfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,398,0,train_plural_128,NULL,train_answer_128,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,401,0,train_plural_129,NULL,train_answer_129,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,404,0,train_plural_130,NULL,train_answer_130,truvitfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,407,0,train_plural_131,NULL,train_answer_131,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,410,0,train_plural_132,NULL,train_answer_132,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,413,0,train_plural_133,NULL,train_answer_133,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,416,0,train_plural_134,NULL,train_answer_134,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,419,0,train_plural_135,NULL,train_answer_135,kisalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,422,0,train_plural_136,NULL,train_answer_136,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,425,0,train_plural_137,NULL,train_answer_137,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,428,0,train_plural_138,NULL,train_answer_138,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,431,0,train_plural_139,NULL,train_answer_139,zaktaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,434,0,train_plural_140,NULL,train_answer_140,fudkiku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,437,0,train_plural_141,NULL,train_answer_141,flebonku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,440,0,train_plural_142,NULL,train_answer_142,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,443,0,train_plural_143,NULL,train_answer_143,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,446,0,train_plural_144,NULL,train_answer_144,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,449,0,train_plural_145,NULL,train_answer_145,truvitku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,452,0,train_plural_146,NULL,train_answer_146,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,455,0,train_plural_147,NULL,train_answer_147,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,458,0,train_plural_148,NULL,train_answer_148,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,461,0,train_plural_149,NULL,train_answer_149,gragolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,465,0,train_plural_150,NULL,train_answer_150,gazalfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,468,0,train_plural_151,NULL,train_answer_151,kisalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,471,0,train_plural_152,NULL,train_answer_152,krakleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,474,0,train_plural_153,NULL,train_answer_153,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,477,0,train_plural_154,NULL,train_answer_154,blezanku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,480,0,train_plural_155,NULL,train_answer_155,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,483,0,train_plural_156,NULL,train_answer_156,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,486,0,train_plural_157,NULL,train_answer_157,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,489,0,train_plural_158,NULL,train_answer_158,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,492,0,train_plural_159,NULL,train_answer_159,lugatku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,495,0,train_plural_160,NULL,train_answer_160,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,498,0,train_plural_161,NULL,train_answer_161,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,501,0,train_plural_162,NULL,train_answer_162,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,504,0,train_plural_163,NULL,train_answer_163,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,507,0,train_plural_164,NULL,train_answer_164,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,510,0,train_plural_165,NULL,train_answer_165,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,513,0,train_plural_166,NULL,train_answer_166,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,516,0,train_plural_167,NULL,train_answer_167,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,519,0,train_plural_168,NULL,train_answer_168,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,522,0,train_plural_169,NULL,train_answer_169,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,525,0,train_plural_170,NULL,train_answer_170,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,528,0,train_plural_171,NULL,train_answer_171,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,531,0,train_plural_172,NULL,train_answer_172,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,534,0,train_plural_173,NULL,train_answer_173,flebonku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,537,0,train_plural_174,NULL,train_answer_174,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,540,0,train_plural_175,NULL,train_answer_175,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,543,0,train_plural_176,NULL,train_answer_176,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,546,0,train_plural_177,NULL,train_answer_177,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,549,0,train_plural_178,NULL,train_answer_178,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,552,0,train_plural_179,NULL,train_answer_179,truvitku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,555,0,train_plural_180,NULL,train_answer_180,tutunku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,558,0,train_plural_181,NULL,train_answer_181,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,561,0,train_plural_182,NULL,train_answer_182,blezanfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,564,0,train_plural_183,NULL,train_answer_183,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,567,0,train_plural_184,NULL,train_answer_184,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,570,0,train_plural_185,NULL,train_answer_185,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,573,0,train_plural_186,NULL,train_answer_186,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,576,0,train_plural_187,NULL,train_answer_187,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,579,0,train_plural_188,NULL,train_answer_188,lugatku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,582,0,train_plural_189,NULL,train_answer_189,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,585,0,train_plural_190,NULL,train_answer_190,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,588,0,train_plural_191,NULL,train_answer_191,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,591,0,train_plural_192,NULL,train_answer_192,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,594,0,train_plural_193,NULL,train_answer_193,tutunku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,597,0,train_plural_194,NULL,train_answer_194,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,600,0,train_plural_195,NULL,train_answer_195,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,603,0,train_plural_196,NULL,train_answer_196,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,606,0,train_plural_197,NULL,train_answer_197,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,609,0,train_plural_198,NULL,train_answer_198,bruganfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,612,0,train_plural_199,NULL,train_answer_199,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,616,0,train_plural_200,NULL,train_answer_200,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,619,0,train_plural_201,NULL,train_answer_201,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,622,0,train_plural_202,NULL,train_answer_202,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,625,0,train_plural_203,NULL,train_answer_203,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,628,0,train_plural_204,NULL,train_answer_204,lugatku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,631,0,train_plural_205,NULL,train_answer_205,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,634,0,train_plural_206,NULL,train_answer_206,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,637,0,train_plural_207,NULL,train_answer_207,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,640,0,train_plural_208,NULL,train_answer_208,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,643,0,train_plural_209,NULL,train_answer_209,blezanfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,646,0,train_plural_210,NULL,train_answer_210,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,649,0,train_plural_211,NULL,train_answer_211,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,652,0,train_plural_212,NULL,train_answer_212,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,655,0,train_plural_213,NULL,train_answer_213,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,658,0,train_plural_214,NULL,train_answer_214,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,661,0,train_plural_215,NULL,train_answer_215,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,664,0,train_plural_216,NULL,train_answer_216,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,667,0,train_plural_217,NULL,train_answer_217,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,670,0,train_plural_218,NULL,train_answer_218,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,673,0,train_plural_219,NULL,train_answer_219,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,676,0,train_plural_220,NULL,train_answer_220,drokrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,679,0,train_plural_221,NULL,train_answer_221,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,682,0,train_plural_222,NULL,train_answer_222,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,685,0,train_plural_223,NULL,train_answer_223,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,688,0,train_plural_224,NULL,train_answer_224,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,691,0,train_plural_225,NULL,train_answer_225,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,694,0,train_plural_226,NULL,train_answer_226,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,697,0,train_plural_227,NULL,train_answer_227,mafdifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,700,0,train_plural_228,NULL,train_answer_228,tikleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,703,0,train_plural_229,NULL,train_answer_229,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,706,0,train_plural_230,NULL,train_answer_230,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,709,0,train_plural_231,NULL,train_answer_231,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,712,0,train_plural_232,NULL,train_answer_232,tazkufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,715,0,train_plural_233,NULL,train_answer_233,pisfufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,718,0,train_plural_234,NULL,train_answer_234,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,721,0,train_plural_235,NULL,train_answer_235,kraklefi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,724,0,train_plural_236,NULL,train_answer_236,blezanfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,727,0,train_plural_237,NULL,train_answer_237,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,730,0,train_plural_238,NULL,train_answer_238,zaktafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,733,0,train_plural_239,NULL,train_answer_239,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,736,0,train_plural_240,NULL,train_answer_240,fudkiku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,739,0,train_plural_241,NULL,train_answer_241,gragolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,742,0,train_plural_242,NULL,train_answer_242,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,745,0,train_plural_243,NULL,train_answer_243,zaftafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,748,0,train_plural_244,NULL,train_answer_244,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,751,0,train_plural_245,NULL,train_answer_245,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,754,0,train_plural_246,NULL,train_answer_246,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,757,0,train_plural_247,NULL,train_answer_247,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,760,0,train_plural_248,NULL,train_answer_248,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,763,0,train_plural_249,NULL,train_answer_249,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,767,0,train_plural_250,NULL,train_answer_250,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,770,0,train_plural_251,NULL,train_answer_251,flebonku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,773,0,train_plural_252,NULL,train_answer_252,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,776,0,train_plural_253,NULL,train_answer_253,gazalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,779,0,train_plural_254,NULL,train_answer_254,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,782,0,train_plural_255,NULL,train_answer_255,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,785,0,train_plural_256,NULL,train_answer_256,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,788,0,train_plural_257,NULL,train_answer_257,samku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,791,0,train_plural_258,NULL,train_answer_258,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,794,0,train_plural_259,NULL,train_answer_259,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,797,0,train_plural_260,NULL,train_answer_260,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,800,0,train_plural_261,NULL,train_answer_261,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,803,0,train_plural_262,NULL,train_answer_262,tikleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,806,0,train_plural_263,NULL,train_answer_263,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,809,0,train_plural_264,NULL,train_answer_264,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,812,0,train_plural_265,NULL,train_answer_265,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,815,0,train_plural_266,NULL,train_answer_266,tikleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,818,0,train_plural_267,NULL,train_answer_267,tutunku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,821,0,train_plural_268,NULL,train_answer_268,tazkufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,824,0,train_plural_269,NULL,train_answer_269,tutunku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,827,0,train_plural_270,NULL,train_answer_270,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,830,0,train_plural_271,NULL,train_answer_271,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,833,0,train_plural_272,NULL,train_answer_272,truvitku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,836,0,train_plural_273,NULL,train_answer_273,dosid
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,839,0,train_plural_274,NULL,train_answer_274,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,842,0,train_plural_275,NULL,train_answer_275,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,845,0,train_plural_276,NULL,train_answer_276,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,848,0,train_plural_277,NULL,train_answer_277,fregluku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,851,0,train_plural_278,NULL,train_answer_278,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,854,0,train_plural_279,NULL,train_answer_279,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,857,0,train_plural_280,NULL,train_answer_280,marelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,860,0,train_plural_281,NULL,train_answer_281,kisalku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,863,0,train_plural_282,NULL,train_answer_282,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,866,0,train_plural_283,NULL,train_answer_283,truvitku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,869,0,train_plural_284,NULL,train_answer_284,vidfoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,872,0,train_plural_285,NULL,train_answer_285,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,875,0,train_plural_286,NULL,train_answer_286,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,878,0,train_plural_287,NULL,train_answer_287,gragolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,881,0,train_plural_288,NULL,train_answer_288,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,884,0,train_plural_289,NULL,train_answer_289,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,887,0,train_plural_290,NULL,train_answer_290,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,890,0,train_plural_291,NULL,train_answer_291,sameku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,893,0,train_plural_292,NULL,train_answer_292,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,896,0,train_plural_293,NULL,train_answer_293,glakodfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,899,0,train_plural_294,NULL,train_answer_294,fudkiku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,902,0,train_plural_295,NULL,train_answer_295,tazkufi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,905,0,train_plural_296,NULL,train_answer_296,dosidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,908,0,train_plural_297,NULL,train_answer_297,traplaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,911,0,train_plural_298,NULL,train_answer_298,gragolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,915,0,test_plural_0,NULL,test_answer_0,nipafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,917,0,test_plural_1,NULL,test_answer_1,fetleku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,919,0,test_plural_2,NULL,test_answer_2,notmaku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,921,0,test_plural_3,NULL,test_answer_3,plitonfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,923,0,test_plural_4,NULL,test_answer_4,slozarku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,925,0,test_plural_5,NULL,test_answer_5,latkoki
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,927,0,test_plural_6,NULL,test_answer_6,lodbifi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,929,0,test_plural_7,NULL,test_answer_7,bogdiku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,931,0,test_plural_8,NULL,test_answer_8,bozpuku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,933,0,test_plural_9,NULL,test_answer_9,suzatfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,935,0,test_plural_10,NULL,test_answer_10,keklafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,937,0,test_plural_11,NULL,test_answer_11,bakrafi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,939,0,test_plural_12,NULL,test_answer_12,zezoku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,941,0,test_plural_13,NULL,test_answer_13,krotudku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,943,0,test_plural_14,NULL,test_answer_14,krilelfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,945,0,test_plural_15,NULL,test_answer_15,midadku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,947,0,test_plural_16,NULL,test_answer_16,fralolfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,949,0,test_plural_17,NULL,test_answer_17,demunfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,951,0,test_plural_18,NULL,test_answer_18,patulfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,953,0,test_plural_19,NULL,test_answer_19,brulenku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,955,0,test_plural_20,NULL,test_answer_20,mubniku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,957,0,test_plural_21,NULL,test_answer_21,kidanku
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,959,0,test_plural_22,NULL,test_answer_22,krimidfi
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,my_Form,961,0,test_plural_23,NULL,test_answer_23,redrefi
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,963,0,post_quest_0,NULL,<div style='display:none'>zakta</div><h2>zakta</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_6.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_7.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_6.wav'>Error! Please contact researcher.</audio>,Left,1,5466
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,964,0,post_quest_1,NULL,<div style='display:none'>krakle</div><h2>krakle</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_13.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_14.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_13.wav'>Error! Please contact researcher.</audio>,Left,1,1370
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,965,0,post_quest_2,NULL,<div style='display:none'>lugat</div><h2>lugat</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_18.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_17.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_17.wav'>Error! Please contact researcher.</audio>,Right,1,1831
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,966,0,post_quest_3,NULL,<div style='display:none'>gragol</div><h2>gragol</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_12.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_11.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_11.wav'>Error! Please contact researcher.</audio>,Right,1,1644
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,967,0,post_quest_4,NULL,<div style='display:none'>brugan</div><h2>brugan</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_18.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_19.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_18.wav'>Error! Please contact researcher.</audio>,Left,1,4715
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,968,0,post_quest_5,NULL,<div style='display:none'>flebon</div><h2>flebon</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_1.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_24.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_24.wav'>Error! Please contact researcher.</audio>,Right,1,1653
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,969,0,post_quest_6,NULL,<div style='display:none'>trapla</div><h2>trapla</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_1.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_2.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_1.wav'>Error! Please contact researcher.</audio>,Left,1,1531
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,970,0,post_quest_7,NULL,<div style='display:none'>blezan</div><h2>blezan</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_19.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_20.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_19.wav'>Error! Please contact researcher.</audio>,Left,1,1563
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,971,0,post_quest_8,NULL,<div style='display:none'>same</div><h2>same</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_8.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_7.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_7.wav'>Error! Please contact researcher.</audio>,Right,1,1184
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,972,0,post_quest_9,NULL,<div style='display:none'>truvit</div><h2>truvit</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_9.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_10.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_9.wav'>Error! Please contact researcher.</audio>,Left,1,1136
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,973,0,post_quest_10,NULL,<div style='display:none'>tazku</div><h2>tazku</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_16.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_15.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_15.wav'>Error! Please contact researcher.</audio>,Right,1,1628
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,974,0,post_quest_11,NULL,<div style='display:none'>drokra</div><h2>drokra</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_8.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_9.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_8.wav'>Error! Please contact researcher.</audio>,Left,1,1452
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,975,0,post_quest_12,NULL,<div style='display:none'>glakod</div><h2>glakod</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_3.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_4.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_3.wav'>Error! Please contact researcher.</audio>,Left,1,1546
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,976,0,post_quest_13,NULL,<div style='display:none'>vidfo</div><h2>vidfo</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_5.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_6.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_5.wav'>Error! Please contact researcher.</audio>,Left,1,1234
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,977,0,post_quest_14,NULL,<div style='display:none'>pisfu</div><h2>pisfu</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_11.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_10.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_10.wav'>Error! Please contact researcher.</audio>,Right,1,1371
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,978,0,post_quest_15,NULL,<div style='display:none'>dosid</div><h2>dosid</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_3.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_2.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_2.wav'>Error! Please contact researcher.</audio>,Right,1,1443
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,979,0,post_quest_16,NULL,<div style='display:none'>fudki</div><h2>fudki</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_21.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_20.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_20.wav'>Error! Please contact researcher.</audio>,Right,1,1469
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,980,0,post_quest_17,NULL,<div style='display:none'>marel</div><h2>marel</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_4.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_5.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_4.wav'>Error! Please contact researcher.</audio>,Left,1,1315
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,981,0,post_quest_18,NULL,<div style='display:none'>mafdi</div><h2>mafdi</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_13.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_12.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_12.wav'>Error! Please contact researcher.</audio>,Right,1,1403
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,982,0,post_quest_19,NULL,<div style='display:none'>gazal</div><h2>gazal</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_24.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_23.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_23.wav'>Error! Please contact researcher.</audio>,Right,1,1904
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,983,0,post_quest_20,NULL,<div style='display:none'>tikle</div><h2>tikle</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_22.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_23.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_22.wav'>Error! Please contact researcher.</audio>,Left,1,1185
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,984,0,post_quest_21,NULL,<div style='display:none'>tutun</div><h2>tutun</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_16.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_17.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_16.wav'>Error! Please contact researcher.</audio>,Left,1,1300
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,985,0,post_quest_22,NULL,<div style='display:none'>freglu</div><h2>freglu</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_22.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_21.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_21.wav'>Error! Please contact researcher.</audio>,Right,1,1160
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Question,986,0,post_quest_23,NULL,<div style='display:none'>kisal</div><h2>kisal</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_14.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_15.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_14.wav'>Error! Please contact researcher.</audio>,Left,1,1201
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,age,1991
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,prior_ling_exp,I did German at GCSE and use Duolingo to study Japanese and Portuguese for fun.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,train_description,if it ended in a vowel or consonant%0AWas it an organic or inanimate object%0A
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,test_description,In the first test trial I just went with gut feeling by what sounded similar to previous combinations I had learned.%0ABy the second trial I had memorised the words so was able to recalled them.
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,test_percentage,70
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,aha_description,
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,Qs_Meaning,What was the rule?! I have no idea haha would love to know. 
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,prolific_id,61505397a1098a9635b22dba
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,train_approach,yes
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,train_approach,yes
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,train_approach,yes
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,train_approach,no
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,test_approach,yes
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,test_approach,no
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,test_approach,no
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,gender,W
+1633196155,52ea6deff56e8c3b5a3d3f848578fc17,Form,987,0,survey,NULL,aha_yesNo,0
+#
+# Results on Saturday October 02 2021 19:43:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+# Design number was non-random = 208
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1633203797,38fa17d9d172f977d39142b79983332c,Form,2,0,intro,NULL,consent,yes
+1633203797,38fa17d9d172f977d39142b79983332c,Question,3,0,compQ1,NULL,Which browser should you <strong>not</strong> be using?,Safari,1,4638
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1633203797,38fa17d9d172f977d39142b79983332c,Question,7,0,compQ2,NULL,What will you learn to express in the alien language?,The Plural,1,3518
+1633203797,38fa17d9d172f977d39142b79983332c,Question,10,0,compQ3,NULL,What are the two suffixes in the language?,‘ku’ and ‘fi’,1,3114
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,12,0,train_plural_0,NULL,train_answer_0,truvit
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,15,0,train_plural_1,NULL,train_answer_1,dosidku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,18,0,train_plural_2,NULL,train_answer_2,vidfofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,21,0,train_plural_3,NULL,train_answer_3,traplfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,24,0,train_plural_4,NULL,train_answer_4,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,27,0,train_plural_5,NULL,train_answer_5,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,30,0,train_plural_6,NULL,train_answer_6,mafdiku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,33,0,train_plural_7,NULL,train_answer_7,drokaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,36,0,train_plural_8,NULL,train_answer_8,dosidku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,39,0,train_plural_9,NULL,train_answer_9,traplafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,42,0,train_plural_10,NULL,train_answer_10,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,45,0,train_plural_11,NULL,train_answer_11,pisfuki
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,48,0,train_plural_12,NULL,train_answer_12,dosidku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,51,0,train_plural_13,NULL,train_answer_13,vidfofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,54,0,train_plural_14,NULL,train_answer_14,dosidku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,57,0,train_plural_15,NULL,train_answer_15,samefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,60,0,train_plural_16,NULL,train_answer_16,traflafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,63,0,train_plural_17,NULL,train_answer_17,krakelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,66,0,train_plural_18,NULL,train_answer_18,grugku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,69,0,train_plural_19,NULL,train_answer_19,traflaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,72,0,train_plural_20,NULL,train_answer_20,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,75,0,train_plural_21,NULL,train_answer_21,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,78,0,train_plural_22,NULL,train_answer_22,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,81,0,train_plural_23,NULL,train_answer_23,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,84,0,train_plural_24,NULL,train_answer_24,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,87,0,train_plural_25,NULL,train_answer_25,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,90,0,train_plural_26,NULL,train_answer_26,kraklofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,93,0,train_plural_27,NULL,train_answer_27,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,96,0,train_plural_28,NULL,train_answer_28,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,99,0,train_plural_29,NULL,train_answer_29,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,102,0,train_plural_30,NULL,train_answer_30,mafdiku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,105,0,train_plural_31,NULL,train_answer_31,krakefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,108,0,train_plural_32,NULL,train_answer_32,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,111,0,train_plural_33,NULL,train_answer_33,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,114,0,train_plural_34,NULL,train_answer_34,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,117,0,train_plural_35,NULL,train_answer_35,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,120,0,train_plural_36,NULL,train_answer_36,graklofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,123,0,train_plural_37,NULL,train_answer_37,pisifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,126,0,train_plural_38,NULL,train_answer_38,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,129,0,train_plural_39,NULL,train_answer_39,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,132,0,train_plural_40,NULL,train_answer_40,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,135,0,train_plural_41,NULL,train_answer_41,mafdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,138,0,train_plural_42,NULL,train_answer_42,fudkifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,141,0,train_plural_43,NULL,train_answer_43,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,144,0,train_plural_44,NULL,train_answer_44,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,147,0,train_plural_45,NULL,train_answer_45,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,150,0,train_plural_46,NULL,train_answer_46,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,153,0,train_plural_47,NULL,train_answer_47,tiklefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,156,0,train_plural_48,NULL,train_answer_48,costku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,159,0,train_plural_49,NULL,train_answer_49,blezanfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,163,0,train_plural_50,NULL,train_answer_50,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,166,0,train_plural_51,NULL,train_answer_51,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,169,0,train_plural_52,NULL,train_answer_52,gazalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,172,0,train_plural_53,NULL,train_answer_53,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,175,0,train_plural_54,NULL,train_answer_54,vidofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,178,0,train_plural_55,NULL,train_answer_55,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,181,0,train_plural_56,NULL,train_answer_56,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,184,0,train_plural_57,NULL,train_answer_57,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,187,0,train_plural_58,NULL,train_answer_58,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,190,0,train_plural_59,NULL,train_answer_59,drokaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,193,0,train_plural_60,NULL,train_answer_60,fudkiku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,196,0,train_plural_61,NULL,train_answer_61,mafdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,199,0,train_plural_62,NULL,train_answer_62,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,202,0,train_plural_63,NULL,train_answer_63,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,205,0,train_plural_64,NULL,train_answer_64,gazalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,208,0,train_plural_65,NULL,train_answer_65,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,211,0,train_plural_66,NULL,train_answer_66,kraklefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,214,0,train_plural_67,NULL,train_answer_67,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,217,0,train_plural_68,NULL,train_answer_68,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,220,0,train_plural_69,NULL,train_answer_69,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,223,0,train_plural_70,NULL,train_answer_70,drokafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,226,0,train_plural_71,NULL,train_answer_71,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,229,0,train_plural_72,NULL,train_answer_72,graklofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,232,0,train_plural_73,NULL,train_answer_73,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,235,0,train_plural_74,NULL,train_answer_74,bruganfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,238,0,train_plural_75,NULL,train_answer_75,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,241,0,train_plural_76,NULL,train_answer_76,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,244,0,train_plural_77,NULL,train_answer_77,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,247,0,train_plural_78,NULL,train_answer_78,fudkiku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,250,0,train_plural_79,NULL,train_answer_79,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,253,0,train_plural_80,NULL,train_answer_80,fudkiku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,256,0,train_plural_81,NULL,train_answer_81,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,259,0,train_plural_82,NULL,train_answer_82,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,262,0,train_plural_83,NULL,train_answer_83,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,265,0,train_plural_84,NULL,train_answer_84,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,268,0,train_plural_85,NULL,train_answer_85,tuanfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,271,0,train_plural_86,NULL,train_answer_86,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,274,0,train_plural_87,NULL,train_answer_87,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,277,0,train_plural_88,NULL,train_answer_88,tutanku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,280,0,train_plural_89,NULL,train_answer_89,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,283,0,train_plural_90,NULL,train_answer_90,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,286,0,train_plural_91,NULL,train_answer_91,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,289,0,train_plural_92,NULL,train_answer_92,tazkufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,292,0,train_plural_93,NULL,train_answer_93,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,295,0,train_plural_94,NULL,train_answer_94,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,298,0,train_plural_95,NULL,train_answer_95,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,301,0,train_plural_96,NULL,train_answer_96,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,304,0,train_plural_97,NULL,train_answer_97,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,307,0,train_plural_98,NULL,train_answer_98,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,310,0,train_plural_99,NULL,train_answer_99,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,314,0,train_plural_100,NULL,train_answer_100,graklodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,317,0,train_plural_101,NULL,train_answer_101,truvitfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,320,0,train_plural_102,NULL,train_answer_102,tikleku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,323,0,train_plural_103,NULL,train_answer_103,kraklefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,326,0,train_plural_104,NULL,train_answer_104,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,329,0,train_plural_105,NULL,train_answer_105,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,332,0,train_plural_106,NULL,train_answer_106,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,335,0,train_plural_107,NULL,train_answer_107,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,338,0,train_plural_108,NULL,train_answer_108,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,341,0,train_plural_109,NULL,train_answer_109,freglufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,344,0,train_plural_110,NULL,train_answer_110,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,347,0,train_plural_111,NULL,train_answer_111,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,350,0,train_plural_112,NULL,train_answer_112,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,353,0,train_plural_113,NULL,train_answer_113,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,356,0,train_plural_114,NULL,train_answer_114,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,359,0,train_plural_115,NULL,train_answer_115,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,362,0,train_plural_116,NULL,train_answer_116,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,365,0,train_plural_117,NULL,train_answer_117,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,368,0,train_plural_118,NULL,train_answer_118,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,371,0,train_plural_119,NULL,train_answer_119,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,374,0,train_plural_120,NULL,train_answer_120,mafdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,377,0,train_plural_121,NULL,train_answer_121,lugatfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,380,0,train_plural_122,NULL,train_answer_122,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,383,0,train_plural_123,NULL,train_answer_123,kraklefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,386,0,train_plural_124,NULL,train_answer_124,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,389,0,train_plural_125,NULL,train_answer_125,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,392,0,train_plural_126,NULL,train_answer_126,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,395,0,train_plural_127,NULL,train_answer_127,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,398,0,train_plural_128,NULL,train_answer_128,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,401,0,train_plural_129,NULL,train_answer_129,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,404,0,train_plural_130,NULL,train_answer_130,drokafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,407,0,train_plural_131,NULL,train_answer_131,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,410,0,train_plural_132,NULL,train_answer_132,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,413,0,train_plural_133,NULL,train_answer_133,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,416,0,train_plural_134,NULL,train_answer_134,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,419,0,train_plural_135,NULL,train_answer_135,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,422,0,train_plural_136,NULL,train_answer_136,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,425,0,train_plural_137,NULL,train_answer_137,fregluku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,428,0,train_plural_138,NULL,train_answer_138,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,431,0,train_plural_139,NULL,train_answer_139,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,434,0,train_plural_140,NULL,train_answer_140,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,437,0,train_plural_141,NULL,train_answer_141,bruganfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,440,0,train_plural_142,NULL,train_answer_142,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,443,0,train_plural_143,NULL,train_answer_143,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,446,0,train_plural_144,NULL,train_answer_144,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,449,0,train_plural_145,NULL,train_answer_145,blezanfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,452,0,train_plural_146,NULL,train_answer_146,lugatku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,455,0,train_plural_147,NULL,train_answer_147,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,458,0,train_plural_148,NULL,train_answer_148,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,461,0,train_plural_149,NULL,train_answer_149,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,465,0,train_plural_150,NULL,train_answer_150,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,468,0,train_plural_151,NULL,train_answer_151,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,471,0,train_plural_152,NULL,train_answer_152,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,474,0,train_plural_153,NULL,train_answer_153,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,477,0,train_plural_154,NULL,train_answer_154,fregluku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,480,0,train_plural_155,NULL,train_answer_155,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,483,0,train_plural_156,NULL,train_answer_156,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,486,0,train_plural_157,NULL,train_answer_157,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,489,0,train_plural_158,NULL,train_answer_158,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,492,0,train_plural_159,NULL,train_answer_159,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,495,0,train_plural_160,NULL,train_answer_160,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,498,0,train_plural_161,NULL,train_answer_161,flebonfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,501,0,train_plural_162,NULL,train_answer_162,blezanfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,504,0,train_plural_163,NULL,train_answer_163,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,507,0,train_plural_164,NULL,train_answer_164,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,510,0,train_plural_165,NULL,train_answer_165,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,513,0,train_plural_166,NULL,train_answer_166,flebonku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,516,0,train_plural_167,NULL,train_answer_167,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,519,0,train_plural_168,NULL,train_answer_168,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,522,0,train_plural_169,NULL,train_answer_169,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,525,0,train_plural_170,NULL,train_answer_170,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,528,0,train_plural_171,NULL,train_answer_171,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,531,0,train_plural_172,NULL,train_answer_172,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,534,0,train_plural_173,NULL,train_answer_173,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,537,0,train_plural_174,NULL,train_answer_174,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,540,0,train_plural_175,NULL,train_answer_175,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,543,0,train_plural_176,NULL,train_answer_176,gragolfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,546,0,train_plural_177,NULL,train_answer_177,mafdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,549,0,train_plural_178,NULL,train_answer_178,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,552,0,train_plural_179,NULL,train_answer_179,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,555,0,train_plural_180,NULL,train_answer_180,glakodku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,558,0,train_plural_181,NULL,train_answer_181,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,561,0,train_plural_182,NULL,train_answer_182,tikleku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,564,0,train_plural_183,NULL,train_answer_183,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,567,0,train_plural_184,NULL,train_answer_184,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,570,0,train_plural_185,NULL,train_answer_185,flebonku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,573,0,train_plural_186,NULL,train_answer_186,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,576,0,train_plural_187,NULL,train_answer_187,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,579,0,train_plural_188,NULL,train_answer_188,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,582,0,train_plural_189,NULL,train_answer_189,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,585,0,train_plural_190,NULL,train_answer_190,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,588,0,train_plural_191,NULL,train_answer_191,tazkufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,591,0,train_plural_192,NULL,train_answer_192,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,594,0,train_plural_193,NULL,train_answer_193,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,597,0,train_plural_194,NULL,train_answer_194,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,600,0,train_plural_195,NULL,train_answer_195,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,603,0,train_plural_196,NULL,train_answer_196,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,606,0,train_plural_197,NULL,train_answer_197,gragolfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,609,0,train_plural_198,NULL,train_answer_198,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,612,0,train_plural_199,NULL,train_answer_199,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,616,0,train_plural_200,NULL,train_answer_200,lugatku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,619,0,train_plural_201,NULL,train_answer_201,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,622,0,train_plural_202,NULL,train_answer_202,gragolgi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,625,0,train_plural_203,NULL,train_answer_203,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,628,0,train_plural_204,NULL,train_answer_204,gragolfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,631,0,train_plural_205,NULL,train_answer_205,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,634,0,train_plural_206,NULL,train_answer_206,krakelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,637,0,train_plural_207,NULL,train_answer_207,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,640,0,train_plural_208,NULL,train_answer_208,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,643,0,train_plural_209,NULL,train_answer_209,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,646,0,train_plural_210,NULL,train_answer_210,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,649,0,train_plural_211,NULL,train_answer_211,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,652,0,train_plural_212,NULL,train_answer_212,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,655,0,train_plural_213,NULL,train_answer_213,tutunku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,658,0,train_plural_214,NULL,train_answer_214,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,661,0,train_plural_215,NULL,train_answer_215,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,664,0,train_plural_216,NULL,train_answer_216,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,667,0,train_plural_217,NULL,train_answer_217,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,670,0,train_plural_218,NULL,train_answer_218,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,673,0,train_plural_219,NULL,train_answer_219,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,676,0,train_plural_220,NULL,train_answer_220,zaktafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,679,0,train_plural_221,NULL,train_answer_221,mafdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,682,0,train_plural_222,NULL,train_answer_222,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,685,0,train_plural_223,NULL,train_answer_223,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,688,0,train_plural_224,NULL,train_answer_224,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,691,0,train_plural_225,NULL,train_answer_225,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,694,0,train_plural_226,NULL,train_answer_226,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,697,0,train_plural_227,NULL,train_answer_227,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,700,0,train_plural_228,NULL,train_answer_228,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,703,0,train_plural_229,NULL,train_answer_229,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,706,0,train_plural_230,NULL,train_answer_230,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,709,0,train_plural_231,NULL,train_answer_231,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,712,0,train_plural_232,NULL,train_answer_232,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,715,0,train_plural_233,NULL,train_answer_233,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,718,0,train_plural_234,NULL,train_answer_234,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,721,0,train_plural_235,NULL,train_answer_235,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,724,0,train_plural_236,NULL,train_answer_236,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,727,0,train_plural_237,NULL,train_answer_237,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,730,0,train_plural_238,NULL,train_answer_238,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,733,0,train_plural_239,NULL,train_answer_239,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,736,0,train_plural_240,NULL,train_answer_240,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,739,0,train_plural_241,NULL,train_answer_241,tazkufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,742,0,train_plural_242,NULL,train_answer_242,gazalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,745,0,train_plural_243,NULL,train_answer_243,gragolfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,748,0,train_plural_244,NULL,train_answer_244,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,751,0,train_plural_245,NULL,train_answer_245,fregluku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,754,0,train_plural_246,NULL,train_answer_246,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,757,0,train_plural_247,NULL,train_answer_247,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,760,0,train_plural_248,NULL,train_answer_248,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,763,0,train_plural_249,NULL,train_answer_249,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,767,0,train_plural_250,NULL,train_answer_250,sameku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,770,0,train_plural_251,NULL,train_answer_251,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,773,0,train_plural_252,NULL,train_answer_252,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,776,0,train_plural_253,NULL,train_answer_253,blezanfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,779,0,train_plural_254,NULL,train_answer_254,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,782,0,train_plural_255,NULL,train_answer_255,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,785,0,train_plural_256,NULL,train_answer_256,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,788,0,train_plural_257,NULL,train_answer_257,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,791,0,train_plural_258,NULL,train_answer_258,tazkufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,794,0,train_plural_259,NULL,train_answer_259,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,797,0,train_plural_260,NULL,train_answer_260,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,800,0,train_plural_261,NULL,train_answer_261,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,803,0,train_plural_262,NULL,train_answer_262,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,806,0,train_plural_263,NULL,train_answer_263,lugatku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,809,0,train_plural_264,NULL,train_answer_264,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,812,0,train_plural_265,NULL,train_answer_265,glakodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,815,0,train_plural_266,NULL,train_answer_266,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,818,0,train_plural_267,NULL,train_answer_267,gragolku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,821,0,train_plural_268,NULL,train_answer_268,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,824,0,train_plural_269,NULL,train_answer_269,tikleku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,827,0,train_plural_270,NULL,train_answer_270,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,830,0,train_plural_271,NULL,train_answer_271,kisalku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,833,0,train_plural_272,NULL,train_answer_272,gragolfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,836,0,train_plural_273,NULL,train_answer_273,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,839,0,train_plural_274,NULL,train_answer_274,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,842,0,train_plural_275,NULL,train_answer_275,bruganfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,845,0,train_plural_276,NULL,train_answer_276,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,848,0,train_plural_277,NULL,train_answer_277,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,851,0,train_plural_278,NULL,train_answer_278,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,854,0,train_plural_279,NULL,train_answer_279,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,857,0,train_plural_280,NULL,train_answer_280,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,860,0,train_plural_281,NULL,train_answer_281,tutunku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,863,0,train_plural_282,NULL,train_answer_282,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,866,0,train_plural_283,NULL,train_answer_283,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,869,0,train_plural_284,NULL,train_answer_284,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,872,0,train_plural_285,NULL,train_answer_285,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,875,0,train_plural_286,NULL,train_answer_286,vidfoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,878,0,train_plural_287,NULL,train_answer_287,lugatku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,881,0,train_plural_288,NULL,train_answer_288,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,884,0,train_plural_289,NULL,train_answer_289,dosidfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,887,0,train_plural_290,NULL,train_answer_290,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,890,0,train_plural_291,NULL,train_answer_291,truvitku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,893,0,train_plural_292,NULL,train_answer_292,tutunku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,896,0,train_plural_293,NULL,train_answer_293,marelfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,899,0,train_plural_294,NULL,train_answer_294,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,902,0,train_plural_295,NULL,train_answer_295,drokrafi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,905,0,train_plural_296,NULL,train_answer_296,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,908,0,train_plural_297,NULL,train_answer_297,traplaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,911,0,train_plural_298,NULL,train_answer_298,pisfufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,915,0,test_plural_0,NULL,test_answer_0,slozarfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,917,0,test_plural_1,NULL,test_answer_1,teklaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,919,0,test_plural_2,NULL,test_answer_2,lodbifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,921,0,test_plural_3,NULL,test_answer_3,bodfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,923,0,test_plural_4,NULL,test_answer_4,brakraku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,925,0,test_plural_5,NULL,test_answer_5,redrefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,927,0,test_plural_6,NULL,test_answer_6,notmaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,929,0,test_plural_7,NULL,test_answer_7,bogdifi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,931,0,test_plural_8,NULL,test_answer_8,mubniku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,933,0,test_plural_9,NULL,test_answer_9,krimidku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,935,0,test_plural_10,NULL,test_answer_10,latkofi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,937,0,test_plural_11,NULL,test_answer_11,krilelku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,939,0,test_plural_12,NULL,test_answer_12,bozpufi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,941,0,test_plural_13,NULL,test_answer_13,patulku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,943,0,test_plural_14,NULL,test_answer_14,fetlefi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,945,0,test_plural_15,NULL,test_answer_15,nipaku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,947,0,test_plural_16,NULL,test_answer_16,brulenfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,949,0,test_plural_17,NULL,test_answer_17,suzatku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,951,0,test_plural_18,NULL,test_answer_18,demunku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,953,0,test_plural_19,NULL,test_answer_19,zezoku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,955,0,test_plural_20,NULL,test_answer_20,midadfi
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,957,0,test_plural_21,NULL,test_answer_21,fralolku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,959,0,test_plural_22,NULL,test_answer_22,kidanku
+1633203797,38fa17d9d172f977d39142b79983332c,my_Form,961,0,test_plural_23,NULL,test_answer_23,krotudfi
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1633203797,38fa17d9d172f977d39142b79983332c,Question,963,0,post_quest_0,NULL,<div style='display:none'>flebon</div><h2>flebon</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_1.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_24.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_24.wav'>Error! Please contact researcher.</audio>,Right,1,3938
+1633203797,38fa17d9d172f977d39142b79983332c,Question,964,0,post_quest_1,NULL,<div style='display:none'>same</div><h2>same</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_7.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_8.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_7.wav'>Error! Please contact researcher.</audio>,Left,1,2095
+1633203797,38fa17d9d172f977d39142b79983332c,Question,965,0,post_quest_2,NULL,<div style='display:none'>kisal</div><h2>kisal</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_15.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_14.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_14.wav'>Error! Please contact researcher.</audio>,Right,1,1463
+1633203797,38fa17d9d172f977d39142b79983332c,Question,966,0,post_quest_3,NULL,<div style='display:none'>fudki</div><h2>fudki</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_21.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_20.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_20.wav'>Error! Please contact researcher.</audio>,Right,1,3053
+1633203797,38fa17d9d172f977d39142b79983332c,Question,967,0,post_quest_4,NULL,<div style='display:none'>tazku</div><h2>tazku</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_15.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_16.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_15.wav'>Error! Please contact researcher.</audio>,Left,1,1924
+1633203797,38fa17d9d172f977d39142b79983332c,Question,968,0,post_quest_5,NULL,<div style='display:none'>blezan</div><h2>blezan</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_20.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_19.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_19.wav'>Error! Please contact researcher.</audio>,Right,1,1809
+1633203797,38fa17d9d172f977d39142b79983332c,Question,969,0,post_quest_6,NULL,<div style='display:none'>marel</div><h2>marel</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_4.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_5.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_4.wav'>Error! Please contact researcher.</audio>,Left,1,2276
+1633203797,38fa17d9d172f977d39142b79983332c,Question,970,0,post_quest_7,NULL,<div style='display:none'>gragol</div><h2>gragol</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_12.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_11.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_11.wav'>Error! Please contact researcher.</audio>,Right,1,1673
+1633203797,38fa17d9d172f977d39142b79983332c,Question,971,0,post_quest_8,NULL,<div style='display:none'>krakle</div><h2>krakle</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_14.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_13.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_13.wav'>Error! Please contact researcher.</audio>,Right,1,1386
+1633203797,38fa17d9d172f977d39142b79983332c,Question,972,0,post_quest_9,NULL,<div style='display:none'>mafdi</div><h2>mafdi</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_12.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_13.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_12.wav'>Error! Please contact researcher.</audio>,Left,1,1883
+1633203797,38fa17d9d172f977d39142b79983332c,Question,973,0,post_quest_10,NULL,<div style='display:none'>drokra</div><h2>drokra</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_8.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_9.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_8.wav'>Error! Please contact researcher.</audio>,Left,1,1611
+1633203797,38fa17d9d172f977d39142b79983332c,Question,974,0,post_quest_11,NULL,<div style='display:none'>glakod</div><h2>glakod</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_4.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_3.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_3.wav'>Error! Please contact researcher.</audio>,Right,1,1351
+1633203797,38fa17d9d172f977d39142b79983332c,Question,975,0,post_quest_12,NULL,<div style='display:none'>lugat</div><h2>lugat</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_18.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_17.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_17.wav'>Error! Please contact researcher.</audio>,Right,1,1438
+1633203797,38fa17d9d172f977d39142b79983332c,Question,976,0,post_quest_13,NULL,<div style='display:none'>tikle</div><h2>tikle</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_22.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_23.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_22.wav'>Error! Please contact researcher.</audio>,Left,1,1392
+1633203797,38fa17d9d172f977d39142b79983332c,Question,977,0,post_quest_14,NULL,<div style='display:none'>zakta</div><h2>zakta</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_7.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_6.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_6.wav'>Error! Please contact researcher.</audio>,Right,1,1453
+1633203797,38fa17d9d172f977d39142b79983332c,Question,978,0,post_quest_15,NULL,<div style='display:none'>tutun</div><h2>tutun</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_16.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_17.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_16.wav'>Error! Please contact researcher.</audio>,Left,1,1397
+1633203797,38fa17d9d172f977d39142b79983332c,Question,979,0,post_quest_16,NULL,<div style='display:none'>trapla</div><h2>trapla</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_1.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_2.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_1.wav'>Error! Please contact researcher.</audio>,Right,0,1740
+1633203797,38fa17d9d172f977d39142b79983332c,Question,980,0,post_quest_17,NULL,<div style='display:none'>vidfo</div><h2>vidfo</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_6.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_5.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_5.wav'>Error! Please contact researcher.</audio>,Right,1,979
+1633203797,38fa17d9d172f977d39142b79983332c,Question,981,0,post_quest_18,NULL,<div style='display:none'>dosid</div><h2>dosid</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_2.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_3.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_2.wav'>Error! Please contact researcher.</audio>,Left,1,1599
+1633203797,38fa17d9d172f977d39142b79983332c,Question,982,0,post_quest_19,NULL,<div style='display:none'>pisfu</div><h2>pisfu</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_10.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_11.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_10.wav'>Error! Please contact researcher.</audio>,Left,1,1076
+1633203797,38fa17d9d172f977d39142b79983332c,Question,983,0,post_quest_20,NULL,<div style='display:none'>brugan</div><h2>brugan</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_19.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_18.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_18.wav'>Error! Please contact researcher.</audio>,Right,1,2745
+1633203797,38fa17d9d172f977d39142b79983332c,Question,984,0,post_quest_21,NULL,<div style='display:none'>gazal</div><h2>gazal</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_24.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_23.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_23.wav'>Error! Please contact researcher.</audio>,Right,1,1940
+1633203797,38fa17d9d172f977d39142b79983332c,Question,985,0,post_quest_22,NULL,<div style='display:none'>freglu</div><h2>freglu</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_22.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_21.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_21.wav'>Error! Please contact researcher.</audio>,Right,1,1975
+1633203797,38fa17d9d172f977d39142b79983332c,Question,986,0,post_quest_23,NULL,<div style='display:none'>truvit</div><h2>truvit</h2><br><br><table><tr><td colspan='2' style='padding-left:10%;'><h4>The picture that corresponds to the above word is:</h4><br><br></td></tr><tr><td><img class='Question-fake-link' src='https://people.umass.edu/bprickett/exceptionality/train_b_10.png'></td><td><img src='https://people.umass.edu/bprickett/exceptionality/train_b_9.png'></td></tr></table><audio autoplay><source src='https://people.umass.edu/bprickett/exceptionality/train_b_stem_9.wav'>Error! Please contact researcher.</audio>,Right,1,1148
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,age,2002
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,prior_ling_exp,No%2C English is the only language I am fluent in however I can understand a bit of Malayalam %2C Spanish and Korean.
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,train_description,At first I thought it was to do with colours%2C for example beige coloured pictures would have fi representing coffee for example the bag%2C shorts and coffee mug%2C however this was ruled out quickly. 
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,test_description,
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,test_percentage,60
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,aha_description,
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,Qs_Meaning,
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,prolific_id,615810ccd2831270292e2356
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,train_approach,no
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,train_approach,yes
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,train_approach,no
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,train_approach,no
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,test_approach,yes
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,test_approach,no
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,test_approach,no
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,gender,W
+1633203797,38fa17d9d172f977d39142b79983332c,Form,987,0,survey,NULL,aha_yesNo,0
